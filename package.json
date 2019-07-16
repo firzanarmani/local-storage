@@ -53,5 +53,8 @@
     "ts-jest": "^24.0.2",
     "typedoc": "^0.14.2",
     "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "react-hooks-polyfill": "^0.1.0"
   }
 }

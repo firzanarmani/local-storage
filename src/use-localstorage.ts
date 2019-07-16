@@ -1,3 +1,4 @@
+import "react-hooks-polyfill";
 import { writeStorage, deleteFromStorage, LocalStorageChanged } from './local-storage-events';
 import { useEffect, useState, Dispatch, useCallback } from 'react';
 
